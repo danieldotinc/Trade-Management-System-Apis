@@ -10,20 +10,20 @@ const productSchema = new mongoose.Schema({
     type: mongoose.Schema.Types.ObjectId,
     ref: "categories"
   },
-  proCode: Number,
-  diverseCode: Number,
+  proCode: String,
+  diverseCode: String,
   name: String,
   brand: String,
-  buyPrice: Number,
-  refPrice: Number,
-  breakEvenPrice: Number,
-  wholePrice: Number,
-  retailPrice: Number,
-  marketPlacePrice: Number,
-  retailStoreStock: Number,
-  wholeStoreStock: Number,
-  virtualStoreStock: Number,
-  boxQuantity: Number
+  buyPrice: String,
+  refPrice: String,
+  breakEvenPrice: String,
+  wholePrice: String,
+  retailPrice: String,
+  marketPlacePrice: String,
+  retailStoreStock: String,
+  wholeStoreStock: String,
+  virtualStoreStock: String,
+  boxQuantity: String
 });
 
 const Product = mongoose.model("Product", productSchema);
