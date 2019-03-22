@@ -24,14 +24,14 @@ const personSchema = new mongoose.Schema({
     type: mongoose.Schema.Types.ObjectId,
     ref: "market-sectors"
   },
-  telephone: Number,
-  telExtention: Number,
-  mobile: Number,
+  telephone: String,
+  telExtention: String,
+  mobile: String,
   postalCode: String,
   state: String,
   city: String,
   address: String,
-  credit: Number,
+  credit: String,
   explanation: String
 });
 

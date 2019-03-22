@@ -3,6 +3,7 @@ const products = require("../routes/products");
 const categories = require("../routes/categories");
 const persons = require("../routes/persons");
 const identities = require("../routes/identities");
+const companies = require("../routes/companies");
 const marketSectors = require("../routes/marketSectors");
 const officeSectors = require("../routes/officeSectors");
 const users = require("../routes/users");
@@ -15,6 +16,7 @@ module.exports = function(app) {
   app.use("/api/categories", categories);
   app.use("/api/persons", persons);
   app.use("/api/identities", identities);
+  app.use("/api/companies", companies);
   app.use("/api/marketSectors", marketSectors);
   app.use("/api/officeSectors", officeSectors);
   app.use("/api/users", users);
