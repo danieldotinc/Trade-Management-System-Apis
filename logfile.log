@@ -1,0 +1,334 @@
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-22T17:49:13.808Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-22T17:49:14.876Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-22T18:48:33.131Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-22T18:48:34.244Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-22T18:49:34.070Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-22T18:49:35.153Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-22T18:49:59.994Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-22T18:50:01.072Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-22T18:50:49.435Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-22T18:50:50.511Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-22T18:51:45.339Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-22T18:51:46.426Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-22T18:52:12.884Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-22T18:52:13.984Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-22T18:56:19.722Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-22T18:56:20.822Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-22T19:01:18.144Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-22T19:01:19.218Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-22T19:03:18.943Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-22T19:03:20.043Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-22T19:03:55.860Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-22T19:03:56.933Z"}
+{"message":"Cast to ObjectId failed for value \"{\"n\":1,\"ok\":1}\" at path \"_id\" for model \"Category\"","stack":"CastError: Cast to ObjectId failed for value \"{\"n\":1,\"ok\":1}\" at path \"_id\" for model \"Category\"\n    at new CastError (E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\mongoose\\lib\\error\\cast.js:29:11)\n    at ObjectId.Object.<anonymous>.ObjectId.cast (E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\mongoose\\lib\\schema\\objectid.js:242:11)\n    at ObjectId.Object.<anonymous>.SchemaType.applySetters (E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\mongoose\\lib\\schematype.js:849:12)\n    at ObjectId.Object.<anonymous>.SchemaType._castForQuery (E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\mongoose\\lib\\schematype.js:1252:15)\n    at ObjectId.Object.<anonymous>.SchemaType.castForQuery (E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\mongoose\\lib\\schematype.js:1242:15)\n    at ObjectId.Object.<anonymous>.SchemaType.castForQueryWrapper (E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\mongoose\\lib\\schematype.js:1221:15)\n    at cast (E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\mongoose\\lib\\cast.js:307:32)\n    at model.Query.Object.<anonymous>.Query.cast (E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\mongoose\\lib\\query.js:4340:12)\n    at model.Query.Object.<anonymous>.Query._castConditions (E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\mongoose\\lib\\query.js:1723:10)\n    at model.Query.<anonymous> (E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\mongoose\\lib\\query.js:1976:8)\n    at model.Query._wrappedThunk [as _findOne] (E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\mongoose\\lib\\helpers\\query\\wrapThunk.js:16:8)\n    at process.nextTick (E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\kareem\\index.js:369:33)\n    at process._tickCallback (internal/process/next_tick.js:61:11)","name":"CastError","stringValue":"\"{\"n\":1,\"ok\":1}\"","kind":"ObjectId","value":"{\"n\":1,\"ok\":1}","path":"_id","level":"error","timestamp":"2019-03-22T19:03:58.006Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-22T19:08:59.833Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-22T19:09:00.950Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-22T19:11:31.695Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-22T19:11:32.798Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-22T19:14:18.918Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-22T19:14:20.014Z"}
+{"message":"Cast to ObjectId failed for value \"123\" at path \"_id\" for model \"Category\"","stack":"CastError: Cast to ObjectId failed for value \"123\" at path \"_id\" for model \"Category\"\n    at new CastError (E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\mongoose\\lib\\error\\cast.js:29:11)\n    at ObjectId.Object.<anonymous>.ObjectId.cast (E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\mongoose\\lib\\schema\\objectid.js:242:11)\n    at ObjectId.Object.<anonymous>.SchemaType.applySetters (E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\mongoose\\lib\\schematype.js:849:12)\n    at ObjectId.Object.<anonymous>.SchemaType._castForQuery (E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\mongoose\\lib\\schematype.js:1252:15)\n    at ObjectId.Object.<anonymous>.SchemaType.castForQuery (E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\mongoose\\lib\\schematype.js:1242:15)\n    at ObjectId.Object.<anonymous>.SchemaType.castForQueryWrapper (E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\mongoose\\lib\\schematype.js:1221:15)\n    at cast (E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\mongoose\\lib\\cast.js:307:32)\n    at model.Query.Object.<anonymous>.Query.cast (E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\mongoose\\lib\\query.js:4340:12)\n    at model.Query.Object.<anonymous>.Query._castConditions (E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\mongoose\\lib\\query.js:1723:10)\n    at model.Query.<anonymous> (E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\mongoose\\lib\\query.js:1976:8)\n    at model.Query._wrappedThunk [as _findOne] (E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\mongoose\\lib\\helpers\\query\\wrapThunk.js:16:8)\n    at process.nextTick (E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\kareem\\index.js:369:33)\n    at process._tickCallback (internal/process/next_tick.js:61:11)","name":"CastError","stringValue":"\"123\"","kind":"ObjectId","value":"123","path":"_id","level":"error","timestamp":"2019-03-22T19:14:21.114Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-22T19:15:26.227Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-22T19:15:27.298Z"}
+{"message":"Cast to ObjectId failed for value \"123\" at path \"_id\" for model \"Category\"","stack":"CastError: Cast to ObjectId failed for value \"123\" at path \"_id\" for model \"Category\"\n    at new CastError (E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\mongoose\\lib\\error\\cast.js:29:11)\n    at ObjectId.Object.<anonymous>.ObjectId.cast (E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\mongoose\\lib\\schema\\objectid.js:242:11)\n    at ObjectId.Object.<anonymous>.SchemaType.applySetters (E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\mongoose\\lib\\schematype.js:849:12)\n    at ObjectId.Object.<anonymous>.SchemaType._castForQuery (E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\mongoose\\lib\\schematype.js:1252:15)\n    at ObjectId.Object.<anonymous>.SchemaType.castForQuery (E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\mongoose\\lib\\schematype.js:1242:15)\n    at ObjectId.Object.<anonymous>.SchemaType.castForQueryWrapper (E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\mongoose\\lib\\schematype.js:1221:15)\n    at cast (E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\mongoose\\lib\\cast.js:307:32)\n    at model.Query.Object.<anonymous>.Query.cast (E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\mongoose\\lib\\query.js:4340:12)\n    at model.Query.Object.<anonymous>.Query._castConditions (E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\mongoose\\lib\\query.js:1723:10)\n    at model.Query.<anonymous> (E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\mongoose\\lib\\query.js:1976:8)\n    at model.Query._wrappedThunk [as _findOne] (E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\mongoose\\lib\\helpers\\query\\wrapThunk.js:16:8)\n    at process.nextTick (E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\kareem\\index.js:369:33)\n    at process._tickCallback (internal/process/next_tick.js:61:11)","name":"CastError","stringValue":"\"123\"","kind":"ObjectId","value":"123","path":"_id","level":"error","timestamp":"2019-03-22T19:15:28.404Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-22T19:17:55.962Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-22T19:17:57.017Z"}
+{"message":"Cast to ObjectId failed for value \"123\" at path \"_id\" for model \"Category\"","stack":"CastError: Cast to ObjectId failed for value \"123\" at path \"_id\" for model \"Category\"\n    at new CastError (E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\mongoose\\lib\\error\\cast.js:29:11)\n    at ObjectId.Object.<anonymous>.ObjectId.cast (E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\mongoose\\lib\\schema\\objectid.js:242:11)\n    at ObjectId.Object.<anonymous>.SchemaType.applySetters (E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\mongoose\\lib\\schematype.js:849:12)\n    at ObjectId.Object.<anonymous>.SchemaType._castForQuery (E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\mongoose\\lib\\schematype.js:1252:15)\n    at ObjectId.Object.<anonymous>.SchemaType.castForQuery (E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\mongoose\\lib\\schematype.js:1242:15)\n    at ObjectId.Object.<anonymous>.SchemaType.castForQueryWrapper (E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\mongoose\\lib\\schematype.js:1221:15)\n    at cast (E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\mongoose\\lib\\cast.js:307:32)\n    at model.Query.Object.<anonymous>.Query.cast (E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\mongoose\\lib\\query.js:4340:12)\n    at model.Query.Object.<anonymous>.Query._castConditions (E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\mongoose\\lib\\query.js:1723:10)\n    at model.Query.<anonymous> (E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\mongoose\\lib\\query.js:1976:8)\n    at model.Query._wrappedThunk [as _findOne] (E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\mongoose\\lib\\helpers\\query\\wrapThunk.js:16:8)\n    at process.nextTick (E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\kareem\\index.js:369:33)\n    at process._tickCallback (internal/process/next_tick.js:61:11)","name":"CastError","stringValue":"\"123\"","kind":"ObjectId","value":"123","path":"_id","level":"error","timestamp":"2019-03-22T19:17:58.117Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-22T19:18:56.854Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-22T19:18:57.942Z"}
+{"message":"Cast to ObjectId failed for value \"123\" at path \"_id\" for model \"Category\"","stack":"CastError: Cast to ObjectId failed for value \"123\" at path \"_id\" for model \"Category\"\n    at new CastError (E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\mongoose\\lib\\error\\cast.js:29:11)\n    at ObjectId.Object.<anonymous>.ObjectId.cast (E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\mongoose\\lib\\schema\\objectid.js:242:11)\n    at ObjectId.Object.<anonymous>.SchemaType.applySetters (E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\mongoose\\lib\\schematype.js:849:12)\n    at ObjectId.Object.<anonymous>.SchemaType._castForQuery (E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\mongoose\\lib\\schematype.js:1252:15)\n    at ObjectId.Object.<anonymous>.SchemaType.castForQuery (E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\mongoose\\lib\\schematype.js:1242:15)\n    at ObjectId.Object.<anonymous>.SchemaType.castForQueryWrapper (E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\mongoose\\lib\\schematype.js:1221:15)\n    at cast (E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\mongoose\\lib\\cast.js:307:32)\n    at model.Query.Object.<anonymous>.Query.cast (E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\mongoose\\lib\\query.js:4340:12)\n    at model.Query.Object.<anonymous>.Query._castConditions (E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\mongoose\\lib\\query.js:1723:10)\n    at model.Query.<anonymous> (E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\mongoose\\lib\\query.js:1976:8)\n    at model.Query._wrappedThunk [as _findOne] (E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\mongoose\\lib\\helpers\\query\\wrapThunk.js:16:8)\n    at process.nextTick (E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\kareem\\index.js:369:33)\n    at process._tickCallback (internal/process/next_tick.js:61:11)","name":"CastError","stringValue":"\"123\"","kind":"ObjectId","value":"123","path":"_id","level":"error","timestamp":"2019-03-22T19:18:59.047Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-22T19:22:51.318Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-22T19:22:52.400Z"}
+{"message":"mongoose is not defined","stack":"ReferenceError: mongoose is not defined\n    at Object.<anonymous>.router.get (E:\\Docs\\Projects\\ModernReact\\store-manager-api\\routes\\categories.js:35:3)\n    at newFn (E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at newFn (E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\express\\lib\\router\\index.js:281:22\n    at param (E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\express\\lib\\router\\index.js:354:14)\n    at param (E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\express\\lib\\router\\index.js:365:14)\n    at Function.process_params (E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\express\\lib\\router\\index.js:410:3)\n    at next (E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\express\\lib\\router\\index.js:174:3)\n    at router (E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\express\\lib\\router\\index.js:47:12)\n    at newFn (E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at jsonParser (E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\body-parser\\lib\\types\\json.js:110:7)\n    at newFn (E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at expressInit (E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\express\\lib\\middleware\\init.js:40:5)\n    at newFn (E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at query (E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\express\\lib\\middleware\\query.js:45:5)\n    at newFn (E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\express\\lib\\router\\index.js:174:3)\n    at Function.handle (E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\express\\lib\\application.js:174:10)\n    at Server.app (E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\express\\lib\\express.js:39:9)\n    at Server.emit (events.js:189:13)\n    at parserOnIncoming (_http_server.js:672:12)\n    at HTTPParser.parserOnHeadersComplete (_http_common.js:109:17)","level":"error","timestamp":"2019-03-22T19:22:53.526Z"}
+{"message":"mongoose is not defined","stack":"ReferenceError: mongoose is not defined\n    at Object.<anonymous>.router.get (E:\\Docs\\Projects\\ModernReact\\store-manager-api\\routes\\categories.js:35:3)\n    at newFn (E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at next (E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\express\\lib\\router\\route.js:137:13)\n    at Route.dispatch (E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\express\\lib\\router\\route.js:112:3)\n    at newFn (E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\express\\lib\\router\\index.js:281:22\n    at param (E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\express\\lib\\router\\index.js:354:14)\n    at param (E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\express\\lib\\router\\index.js:365:14)\n    at Function.process_params (E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\express\\lib\\router\\index.js:410:3)\n    at next (E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\express\\lib\\router\\index.js:174:3)\n    at router (E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\express\\lib\\router\\index.js:47:12)\n    at newFn (E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at jsonParser (E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\body-parser\\lib\\types\\json.js:110:7)\n    at newFn (E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at expressInit (E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\express\\lib\\middleware\\init.js:40:5)\n    at newFn (E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at query (E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\express\\lib\\middleware\\query.js:45:5)\n    at newFn (E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\express-async-errors\\index.js:16:20)\n    at Layer.handle [as handle_request] (E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\express\\lib\\router\\layer.js:95:5)\n    at trim_prefix (E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\express\\lib\\router\\index.js:317:13)\n    at E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\express\\lib\\router\\index.js:284:7\n    at Function.process_params (E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\express\\lib\\router\\index.js:335:12)\n    at next (E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\express\\lib\\router\\index.js:275:10)\n    at Function.handle (E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\express\\lib\\router\\index.js:174:3)\n    at Function.handle (E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\express\\lib\\application.js:174:10)\n    at Server.app (E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\express\\lib\\express.js:39:9)\n    at Server.emit (events.js:189:13)\n    at parserOnIncoming (_http_server.js:672:12)\n    at HTTPParser.parserOnHeadersComplete (_http_common.js:109:17)","level":"error","timestamp":"2019-03-22T19:22:53.542Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-22T19:23:45.754Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-22T19:23:46.841Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-22T19:27:04.950Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-22T19:27:06.028Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-22T19:28:56.121Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-22T19:28:57.197Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-22T19:33:18.260Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-22T19:33:19.338Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-22T19:37:26.238Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-22T19:37:27.327Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-22T19:44:56.328Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-22T19:44:57.406Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-22T19:45:57.387Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-22T19:45:58.462Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-22T19:46:29.762Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-22T19:46:30.841Z"}
+{"message":"Category validation failed: name: Path `name` (`c`) is shorter than the minimum allowed length (3).","errors":{"name":{"message":"Path `name` (`c`) is shorter than the minimum allowed length (3).","name":"ValidatorError","properties":{"message":"Path `name` (`c`) is shorter than the minimum allowed length (3).","type":"minlength","minlength":3,"path":"name","value":"c"},"kind":"minlength","path":"name","value":"c"}},"_message":"Category validation failed","stack":"ValidationError: name: Path `name` (`c`) is shorter than the minimum allowed length (3).\n    at new ValidationError (E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\mongoose\\lib\\error\\validation.js:30:11)\n    at model.Object.<anonymous>.Document.invalidate (E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\mongoose\\lib\\document.js:2080:32)\n    at p.doValidate.skipSchemaValidators (E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\mongoose\\lib\\document.js:1943:17)\n    at E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\mongoose\\lib\\schematype.js:933:9\n    at process._tickCallback (internal/process/next_tick.js:61:11)","name":"ValidationError","level":"error","timestamp":"2019-03-22T19:46:31.989Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-22T19:49:29.096Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-22T19:49:30.172Z"}
+{"message":"Category validation failed: name: Path `name` (`c`) is shorter than the minimum allowed length (3).","errors":{"name":{"message":"Path `name` (`c`) is shorter than the minimum allowed length (3).","name":"ValidatorError","properties":{"message":"Path `name` (`c`) is shorter than the minimum allowed length (3).","type":"minlength","minlength":3,"path":"name","value":"c"},"kind":"minlength","path":"name","value":"c"}},"_message":"Category validation failed","stack":"ValidationError: name: Path `name` (`c`) is shorter than the minimum allowed length (3).\n    at new ValidationError (E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\mongoose\\lib\\error\\validation.js:30:11)\n    at model.Object.<anonymous>.Document.invalidate (E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\mongoose\\lib\\document.js:2080:32)\n    at p.doValidate.skipSchemaValidators (E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\mongoose\\lib\\document.js:1943:17)\n    at E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\mongoose\\lib\\schematype.js:933:9\n    at process._tickCallback (internal/process/next_tick.js:61:11)","name":"ValidationError","level":"error","timestamp":"2019-03-22T19:49:31.332Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-22T19:51:22.460Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-22T19:51:23.536Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-22T19:51:42.178Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-22T19:51:43.252Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-22T19:55:25.347Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-22T19:55:26.426Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-22T19:55:49.441Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-22T19:55:50.510Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-22T19:56:14.535Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-22T19:56:15.600Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-22T22:04:10.458Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-22T22:04:11.536Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-22T22:06:09.969Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-22T22:06:11.063Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-22T22:08:56.064Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-22T22:08:57.143Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-22T22:19:19.263Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-22T22:19:20.336Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-22T22:26:09.161Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-22T22:26:10.251Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-22T22:29:24.256Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-22T22:29:25.341Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-22T22:31:03.569Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-22T22:31:04.642Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-22T22:31:26.219Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-22T22:31:27.304Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-22T22:32:18.266Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-22T22:32:19.344Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-22T22:33:13.198Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-22T22:33:14.280Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-22T22:34:46.370Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-22T22:34:47.447Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-22T22:36:55.621Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-22T22:36:56.709Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-22T22:37:46.330Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-22T22:37:46.716Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-22T22:37:47.426Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-22T22:37:47.853Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-22T22:38:25.217Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-22T22:38:25.515Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-22T22:38:26.300Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-22T22:38:26.653Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-22T22:40:14.287Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-22T22:40:14.560Z"}
+{"message":"unsupported charset \"UTF-8\"","stack":"UnsupportedMediaTypeError: unsupported charset \"UTF-8\"\n    at E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\body-parser\\lib\\read.js:83:18\n    at invokeCallback (E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\raw-body\\index.js:224:16)\n    at process._tickCallback (internal/process/next_tick.js:61:11)","name":"UnsupportedMediaTypeError","charset":"utf-8","type":"charset.unsupported","level":"error","timestamp":"2019-03-22T22:40:14.664Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-22T22:40:15.369Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-22T22:40:15.716Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-22T22:42:50.851Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-22T22:42:51.925Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-22T22:47:54.515Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-22T22:47:54.614Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-22T22:47:55.599Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-22T22:47:55.699Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T08:38:17.625Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T08:38:17.621Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T08:38:18.711Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T08:38:18.735Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T08:39:17.044Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T08:39:17.043Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T08:39:18.143Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T08:39:18.169Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T08:41:34.590Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T08:41:35.248Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T08:41:35.670Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T08:41:36.317Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T08:42:09.315Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T08:42:09.365Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T08:42:10.396Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T08:42:10.440Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T08:42:19.763Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T08:42:20.105Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T08:42:20.862Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T08:42:21.259Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T08:57:20.277Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T08:57:20.282Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T08:57:21.353Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T08:57:21.376Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T09:01:11.456Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T09:01:11.823Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T09:01:12.536Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T09:01:12.901Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T09:01:32.927Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T09:01:33.294Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T09:01:34.006Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T09:01:34.385Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T09:02:33.027Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T09:02:33.430Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T09:02:34.111Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T09:02:34.502Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T09:02:55.020Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T09:02:55.346Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T09:02:56.101Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T09:02:56.429Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T09:04:29.976Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T09:04:30.311Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T09:04:31.056Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T09:04:31.421Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T09:04:48.576Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T09:04:48.579Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T09:04:49.658Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T09:04:49.659Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T09:08:02.734Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T09:08:02.764Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T09:08:03.809Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T09:08:03.872Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T09:09:05.067Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T09:09:05.262Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T09:09:06.157Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T09:09:06.366Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T09:10:04.766Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T09:10:05.106Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T09:10:05.885Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T09:10:06.209Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T09:11:21.022Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T09:11:21.298Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T09:11:22.126Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T09:11:22.427Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T09:12:03.340Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T09:12:03.705Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T09:12:04.467Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T09:12:04.835Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T09:12:25.927Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T09:12:26.000Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T09:12:27.022Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T09:12:27.139Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T09:12:56.057Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T09:12:56.297Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T09:12:57.187Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T09:12:57.407Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T09:13:29.779Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T09:13:29.807Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T09:13:30.860Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T09:13:30.938Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T09:14:04.887Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T09:14:04.948Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T09:14:05.968Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T09:14:06.007Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T09:14:28.916Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T09:14:28.976Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T09:14:29.991Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T09:14:30.074Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T09:27:28.147Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T09:27:28.167Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T09:27:29.219Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T09:27:29.264Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T09:28:17.528Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T09:28:17.777Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T09:28:18.615Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T09:28:18.881Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T09:28:57.850Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T09:28:58.100Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T09:28:58.933Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T09:28:59.202Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T09:29:32.262Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T09:29:32.321Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T09:29:33.351Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T09:29:33.459Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T09:29:50.237Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T09:29:50.303Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T09:29:51.318Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T09:29:51.436Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T09:30:07.622Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T09:30:07.733Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T09:30:08.700Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T09:30:08.823Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T09:30:52.799Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T09:30:52.799Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T09:30:53.874Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T09:30:53.922Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T09:34:08.888Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T09:34:09.190Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T09:34:09.989Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T09:34:10.298Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T09:35:02.115Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T09:35:02.098Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T09:35:03.216Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T09:35:03.237Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T09:35:40.264Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T09:35:40.578Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T09:35:41.337Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T09:35:41.706Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T09:36:03.749Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T09:36:03.915Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T09:36:04.871Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T09:36:05.025Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T09:36:31.962Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T09:36:31.961Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T09:36:33.057Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T09:36:33.072Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T09:38:18.584Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T09:38:18.967Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T09:38:19.668Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T09:38:20.046Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T09:39:16.383Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T09:39:16.368Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T09:39:17.450Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T09:39:17.491Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T09:52:54.471Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T09:52:54.812Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T09:52:55.556Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T09:52:55.894Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T09:54:57.275Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T09:54:57.612Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T09:54:58.362Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T09:54:58.699Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T09:57:18.403Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T09:57:18.721Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T09:57:19.480Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T09:57:19.774Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T10:25:34.717Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T10:25:34.719Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T10:25:35.806Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T10:25:35.808Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T10:33:02.671Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T10:33:02.796Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T10:33:03.763Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T10:33:03.850Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T10:42:52.092Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T10:42:52.315Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T10:42:53.145Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T10:42:53.374Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T10:51:51.846Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T10:51:51.846Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T10:51:52.944Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T10:51:52.971Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T10:54:51.565Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T10:54:51.712Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T10:54:52.620Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T10:54:52.784Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T10:56:15.848Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T10:56:16.102Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T10:56:16.906Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T10:56:17.157Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T10:57:00.051Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T10:57:00.081Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T10:57:01.105Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T10:57:01.170Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T10:57:35.429Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T10:57:35.604Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T10:57:36.481Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T10:57:36.665Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T12:15:06.718Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T12:15:07.178Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T12:15:07.796Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T12:15:08.290Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T12:15:34.626Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T12:15:34.959Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T12:15:35.687Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T12:15:36.029Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T12:16:09.986Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T12:16:10.047Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T12:16:11.039Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T12:16:11.137Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T12:17:07.719Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T12:17:07.720Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T12:17:08.774Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T12:17:08.814Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T12:20:48.352Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T12:20:48.414Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T12:20:49.412Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T12:20:49.501Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T12:22:10.485Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T12:22:10.669Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T12:22:11.546Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T12:22:11.745Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T12:23:59.829Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager ...","timestamp":"2019-03-23T12:24:00.883Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T12:25:09.007Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T12:25:09.125Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T12:25:10.056Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T12:25:10.201Z"}
