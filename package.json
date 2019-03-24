@@ -4,7 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "jest --watchAll --verbose --coverage"
+    "test": "jest --watchAll --runInBand --detectOpenHandles",
+    "test:watch": "jest --watch",
+    "test:coverage": "jest --coverage --colors"
   },
   "keywords": [],
   "author": "",
@@ -20,11 +22,9 @@
     "jsonwebtoken": "^8.5.0",
     "mongoose": "^5.4.19",
     "nodemon": "^1.18.10",
+    "supertest": "^4.0.2",
     "winston": "2.4.0",
     "winston-mongodb": "3.0.0"
   },
-  "devDependencies": {
-    "jest": "^24.5.0",
-    "supertest": "^4.0.2"
-  }
+  "devDependencies": {}
 }

@@ -33,8 +33,7 @@ function validateProduct(product) {
     name: Joi.string()
       .min(3)
       .max(255)
-      .required(),
-    categoryId: Joi.objectId().required()
+      .required()
   };
   return Joi.validate(product, schema);
 }

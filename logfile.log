@@ -332,3 +332,518 @@
 {"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T12:25:09.125Z"}
 {"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T12:25:10.056Z"}
 {"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T12:25:10.201Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T12:37:49.158Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T12:37:49.426Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T12:37:50.225Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T12:37:50.494Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T12:37:55.459Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T12:38:38.776Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T12:38:38.943Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T12:38:39.021Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T12:38:39.998Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T12:38:40.088Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T12:39:56.630Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T12:39:56.639Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T12:39:56.610Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T12:39:57.681Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T12:39:57.755Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T12:39:59.161Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T12:40:44.000Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T12:40:44.007Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T12:40:43.966Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T12:40:45.057Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T12:40:45.093Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T12:41:29.886Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T12:41:29.870Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T12:41:30.162Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T12:41:30.962Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T12:41:31.303Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T12:41:33.417Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T12:43:32.412Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager ...","timestamp":"2019-03-23T12:43:33.465Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T12:44:06.349Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T12:44:06.586Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T12:44:07.415Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T12:44:07.670Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T12:44:12.380Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T12:45:48.134Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T12:45:48.222Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T12:45:49.191Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T12:45:49.285Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T12:45:54.039Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T12:48:52.747Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T12:48:52.824Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T12:48:53.085Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T12:48:53.803Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T12:48:53.887Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T12:48:55.391Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T12:49:54.987Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T12:49:55.184Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T12:49:55.354Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T12:49:56.249Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T12:49:56.422Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T12:49:57.633Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T12:54:09.855Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T12:54:09.971Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T12:54:10.270Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T12:54:10.918Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T12:54:11.044Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T12:54:12.708Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T13:33:07.665Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T13:33:07.850Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T13:33:08.041Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T13:33:08.728Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T13:33:08.920Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T13:38:57.596Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T13:38:57.581Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T13:38:57.657Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T13:38:58.648Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T13:38:58.697Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T13:39:00.141Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T13:39:52.555Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T13:39:52.602Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T13:39:52.647Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T13:39:53.630Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T13:39:53.725Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T13:39:53.757Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T13:45:32.647Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T13:45:32.811Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T13:45:33.079Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T13:45:33.730Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T13:45:33.887Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T13:45:34.196Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T13:51:55.926Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T13:51:56.227Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T13:51:56.326Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T13:51:56.997Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T13:51:57.277Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T13:51:57.411Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T15:26:24.539Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T15:26:24.567Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T15:26:24.880Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T15:26:25.652Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T15:26:25.730Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T15:27:17.265Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T15:27:17.262Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T15:27:18.366Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T15:27:18.383Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T15:54:15.098Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T15:54:15.098Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T15:54:15.086Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T15:54:16.159Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T15:54:16.187Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T15:54:16.205Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T15:55:03.173Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T15:55:03.118Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T15:55:04.198Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T15:55:04.291Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T15:57:46.842Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T15:57:47.435Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T15:57:47.929Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T15:57:48.498Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T15:58:12.951Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T15:58:12.988Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T15:58:14.014Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T15:58:14.089Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T15:58:17.533Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T15:58:18.641Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T15:58:35.328Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T15:58:35.452Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T15:58:35.894Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T15:58:36.425Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T15:58:36.560Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T15:58:36.936Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T15:59:26.497Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T15:59:26.504Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T15:59:26.816Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T15:59:27.551Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T15:59:27.601Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T15:59:28.822Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T16:00:05.590Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T16:00:05.728Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T16:00:05.997Z"}
+{"message":"unsupported charset \"UTF-8\"","stack":"UnsupportedMediaTypeError: unsupported charset \"UTF-8\"\n    at E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\body-parser\\lib\\read.js:83:18\n    at invokeCallback (E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\raw-body\\index.js:224:16)\n    at process._tickCallback (internal/process/next_tick.js:61:11)","name":"UnsupportedMediaTypeError","charset":"utf-8","type":"charset.unsupported","level":"error","timestamp":"2019-03-23T16:00:06.119Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T16:00:06.640Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T16:00:06.804Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T16:00:08.376Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T16:01:08.897Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T16:01:09.088Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T16:01:09.398Z"}
+{"message":"unsupported charset \"UTF-8\"","stack":"UnsupportedMediaTypeError: unsupported charset \"UTF-8\"\n    at E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\body-parser\\lib\\read.js:83:18\n    at invokeCallback (E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\raw-body\\index.js:224:16)\n    at process._tickCallback (internal/process/next_tick.js:61:11)","name":"UnsupportedMediaTypeError","charset":"utf-8","type":"charset.unsupported","level":"error","timestamp":"2019-03-23T16:01:09.511Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T16:01:09.955Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T16:01:10.176Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T16:01:11.744Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T16:02:55.591Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T16:02:55.633Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T16:02:56.165Z"}
+{"message":"unsupported charset \"UTF-8\"","stack":"UnsupportedMediaTypeError: unsupported charset \"UTF-8\"\n    at E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\body-parser\\lib\\read.js:83:18\n    at invokeCallback (E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\raw-body\\index.js:224:16)\n    at process._tickCallback (internal/process/next_tick.js:61:11)","name":"UnsupportedMediaTypeError","charset":"utf-8","type":"charset.unsupported","level":"error","timestamp":"2019-03-23T16:02:56.290Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T16:02:56.641Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T16:02:56.739Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T16:02:58.341Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T16:05:26.159Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager ...","timestamp":"2019-03-23T16:05:27.214Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T16:10:51.742Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T16:10:51.791Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T16:10:52.110Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T16:10:52.842Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T16:10:52.920Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T16:10:53.153Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T16:11:30.352Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T16:11:30.557Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T16:11:30.989Z"}
+{"message":"unsupported charset \"UTF-8\"","stack":"UnsupportedMediaTypeError: unsupported charset \"UTF-8\"\n    at E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\body-parser\\lib\\read.js:83:18\n    at invokeCallback (E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\raw-body\\index.js:224:16)\n    at process._tickCallback (internal/process/next_tick.js:61:11)","name":"UnsupportedMediaTypeError","charset":"utf-8","type":"charset.unsupported","level":"error","timestamp":"2019-03-23T16:11:31.108Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T16:11:31.430Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T16:11:31.666Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T16:11:33.333Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T16:11:49.994Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T16:11:50.112Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T16:11:50.190Z"}
+{"message":"unsupported charset \"UTF-8\"","stack":"UnsupportedMediaTypeError: unsupported charset \"UTF-8\"\n    at E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\body-parser\\lib\\read.js:83:18\n    at invokeCallback (E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\raw-body\\index.js:224:16)\n    at process._tickCallback (internal/process/next_tick.js:61:11)","name":"UnsupportedMediaTypeError","charset":"utf-8","type":"charset.unsupported","level":"error","timestamp":"2019-03-23T16:11:50.255Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T16:11:51.050Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T16:11:51.280Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T16:11:52.465Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T16:14:32.138Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T16:14:32.227Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T16:14:32.599Z"}
+{"message":"unsupported charset \"UTF-8\"","stack":"UnsupportedMediaTypeError: unsupported charset \"UTF-8\"\n    at E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\body-parser\\lib\\read.js:83:18\n    at invokeCallback (E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\raw-body\\index.js:224:16)\n    at process._tickCallback (internal/process/next_tick.js:61:11)","name":"UnsupportedMediaTypeError","charset":"utf-8","type":"charset.unsupported","level":"error","timestamp":"2019-03-23T16:14:32.714Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T16:14:33.212Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T16:14:33.307Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T16:14:34.789Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T16:15:19.237Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T16:15:19.343Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T16:15:20.292Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T16:15:20.433Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T16:15:29.752Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T16:15:29.934Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T16:15:30.803Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T16:15:31.014Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T16:15:47.695Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T16:15:47.779Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T16:15:48.761Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T16:15:48.905Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T16:16:26.722Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T16:16:26.818Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T16:16:27.819Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T16:16:27.871Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T16:16:41.680Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T16:16:42.723Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T16:16:57.683Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T16:16:58.728Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T16:17:37.185Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T16:17:38.250Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T16:18:25.086Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T16:18:26.152Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T16:19:39.290Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T16:19:40.338Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T16:19:43.211Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T16:19:44.251Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T16:21:04.474Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T16:21:04.609Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T16:21:05.567Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T16:21:05.666Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T16:21:38.955Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T16:21:39.067Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T16:21:40.034Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T16:21:40.139Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T16:22:16.891Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T16:22:17.006Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T16:22:17.404Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T16:22:17.950Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T16:22:18.120Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T16:22:19.537Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T16:23:03.689Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T16:23:03.714Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T16:23:04.210Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T16:23:04.791Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T16:23:04.816Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T16:23:06.502Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T16:26:23.137Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T16:26:23.119Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T16:26:23.122Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T16:26:24.182Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T16:26:24.252Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T16:26:25.479Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T16:27:06.092Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T16:27:27.376Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T16:27:27.382Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T16:27:27.427Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T16:27:28.456Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T16:27:28.493Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T16:27:28.595Z"}
+{"level":"info","message":"Listening on port 3000 ...","timestamp":"2019-03-23T16:28:13.269Z"}
+{"level":"info","message":"Listening on port 3000 ...","timestamp":"2019-03-23T16:28:13.291Z"}
+{"level":"info","message":"Listening on port 3000 ...","timestamp":"2019-03-23T16:28:13.585Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T16:28:14.349Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T16:28:14.436Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T16:28:14.629Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T16:31:18.715Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T16:31:18.817Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T16:31:18.878Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T16:31:19.805Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T16:31:19.876Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T16:31:19.940Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T16:31:46.991Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T16:31:47.179Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T16:31:47.374Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T16:31:48.051Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T16:31:48.252Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T16:31:49.784Z"}
+{"level":"info","message":"Listening on port $3000} ...","timestamp":"2019-03-23T16:33:12.495Z"}
+{"level":"info","message":"Listening on port $3000} ...","timestamp":"2019-03-23T16:33:12.530Z"}
+{"level":"info","message":"Listening on port $3000} ...","timestamp":"2019-03-23T16:33:12.595Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T16:33:13.589Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T16:33:13.664Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T16:33:14.821Z"}
+{"level":"info","message":"Listening on port $3000} ...","timestamp":"2019-03-23T16:33:40.347Z"}
+{"level":"info","message":"Listening on port $3000} ...","timestamp":"2019-03-23T16:33:40.431Z"}
+{"level":"info","message":"Listening on port $3000} ...","timestamp":"2019-03-23T16:33:40.540Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T16:33:41.400Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T16:33:41.550Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T16:33:43.207Z"}
+{"level":"info","message":"Listening on port 2000 ...","timestamp":"2019-03-23T16:33:57.046Z"}
+{"level":"info","message":"Listening on port 2000 ...","timestamp":"2019-03-23T16:33:57.047Z"}
+{"level":"info","message":"Listening on port 2000 ...","timestamp":"2019-03-23T16:33:57.108Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T16:33:58.099Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T16:33:58.323Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T16:33:59.653Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T16:34:40.260Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T16:34:40.419Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T16:34:40.599Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T16:34:41.551Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T16:34:41.671Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T16:35:23.584Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T16:35:23.736Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T16:35:23.713Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T16:35:24.644Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T16:35:24.813Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T16:35:26.294Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T16:37:28.204Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T16:37:29.291Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T16:37:30.851Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T16:37:31.877Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T16:37:32.413Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T16:37:33.584Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T16:38:33.689Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T16:38:34.737Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T16:38:37.323Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T16:38:38.375Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T16:38:39.946Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T16:38:41.418Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T16:39:02.711Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T16:39:03.766Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T16:39:06.226Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T16:39:07.254Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T16:39:08.669Z"}
+{"message":"unsupported charset \"UTF-8\"","stack":"UnsupportedMediaTypeError: unsupported charset \"UTF-8\"\n    at E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\body-parser\\lib\\read.js:83:18\n    at invokeCallback (E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\raw-body\\index.js:224:16)\n    at process._tickCallback (internal/process/next_tick.js:61:11)","name":"UnsupportedMediaTypeError","charset":"utf-8","type":"charset.unsupported","level":"error","timestamp":"2019-03-23T16:39:09.377Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T16:39:09.955Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T16:39:33.163Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T16:39:34.215Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T16:39:35.885Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T16:39:36.901Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T16:39:37.489Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T16:39:38.518Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T16:41:32.341Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T16:41:33.375Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T16:41:35.051Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T16:41:36.108Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T16:41:36.529Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T16:41:37.554Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T16:42:11.600Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T16:42:12.702Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T16:42:13.116Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T16:42:14.146Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T16:42:15.576Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T16:42:16.602Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T16:43:16.000Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T16:43:17.035Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T16:43:17.444Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T16:43:18.475Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T16:43:19.915Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T16:43:20.942Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T16:45:03.647Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T16:45:04.680Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T16:45:05.060Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T16:45:06.090Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T16:45:07.777Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T16:45:08.804Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T16:46:19.808Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T16:46:20.840Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T16:46:21.241Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T16:46:22.272Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T16:46:23.954Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T16:46:24.981Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T16:47:01.523Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T16:47:02.732Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T16:47:03.122Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T16:47:04.143Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T16:47:05.576Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T16:47:06.600Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T16:48:10.616Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T16:48:11.651Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T16:48:12.043Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T16:48:13.073Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T16:48:14.559Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T16:48:15.621Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T16:48:19.379Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T16:48:20.413Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T16:48:21.033Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T16:48:22.064Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T16:48:23.498Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T16:48:24.523Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T16:48:35.736Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T16:48:36.769Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T16:48:37.140Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T16:48:38.172Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T16:48:39.590Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T16:48:40.614Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T16:50:10.613Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T16:50:11.650Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T16:50:12.064Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T16:50:13.092Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T16:50:14.517Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T16:50:15.542Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T16:51:57.473Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T16:51:58.535Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T16:51:58.951Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T16:51:59.980Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T16:52:01.395Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T16:52:02.423Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T16:52:41.346Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T16:52:42.381Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T16:52:42.779Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T16:52:43.807Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T16:52:45.235Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T16:52:46.261Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T17:33:16.282Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T17:33:17.311Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T17:33:17.749Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T17:33:18.775Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T17:33:20.210Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T17:33:21.270Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T17:49:25.715Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T17:49:26.802Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T17:49:28.367Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T17:49:29.396Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T17:49:29.888Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T17:49:30.914Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T17:50:27.419Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T17:50:28.531Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T17:50:30.070Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T17:50:31.099Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T17:50:31.663Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T17:50:32.717Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T17:51:09.950Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T17:51:09.984Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T17:51:10.057Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T17:51:11.041Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T17:51:11.099Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T17:51:11.162Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T17:51:35.690Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T17:51:36.780Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T17:51:37.374Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T17:51:38.435Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T17:51:40.056Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T17:51:41.100Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T17:52:40.142Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T17:52:41.222Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T17:52:41.661Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T17:52:42.700Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T17:52:44.233Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T17:52:45.251Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T17:55:25.955Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T17:55:27.060Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T17:55:27.607Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T17:55:28.665Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T17:55:30.240Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T17:55:31.288Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T17:55:44.917Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T17:55:46.040Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T17:55:46.580Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T17:55:47.649Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T17:55:49.227Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T17:55:50.260Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T18:04:16.540Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T18:04:17.641Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T18:04:19.326Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T18:04:20.397Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T18:05:20.886Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T18:05:21.993Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T18:05:23.721Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T18:05:24.777Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T18:05:26.224Z"}
+{"message":"Cast to ObjectId failed for value \"a\" at path \"_id\" for model \"Product\"","stack":"CastError: Cast to ObjectId failed for value \"a\" at path \"_id\" for model \"Product\"\n    at new CastError (E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\mongoose\\lib\\error\\cast.js:29:11)\n    at ObjectId.Object.<anonymous>.ObjectId.cast (E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\mongoose\\lib\\schema\\objectid.js:242:11)\n    at ObjectId.Object.<anonymous>.SchemaType.applySetters (E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\mongoose\\lib\\schematype.js:849:12)\n    at ObjectId.Object.<anonymous>.SchemaType._castForQuery (E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\mongoose\\lib\\schematype.js:1252:15)\n    at ObjectId.Object.<anonymous>.SchemaType.castForQuery (E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\mongoose\\lib\\schematype.js:1242:15)\n    at ObjectId.Object.<anonymous>.SchemaType.castForQueryWrapper (E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\mongoose\\lib\\schematype.js:1221:15)\n    at cast (E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\mongoose\\lib\\cast.js:307:32)\n    at model.Query.Object.<anonymous>.Query.cast (E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\mongoose\\lib\\query.js:4340:12)\n    at model.Query.Object.<anonymous>.Query._castConditions (E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\mongoose\\lib\\query.js:1723:10)\n    at model.Query.<anonymous> (E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\mongoose\\lib\\query.js:1976:8)\n    at model.Query._wrappedThunk [as _findOne] (E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\mongoose\\lib\\helpers\\query\\wrapThunk.js:16:8)\n    at process.nextTick (E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\kareem\\index.js:369:33)\n    at process._tickCallback (internal/process/next_tick.js:61:11)","name":"CastError","stringValue":"\"a\"","kind":"ObjectId","value":"a","path":"_id","level":"error","timestamp":"2019-03-23T18:05:26.246Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T18:05:27.278Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T18:05:55.591Z"}
+{"message":"Cast to ObjectId failed for value \"a\" at path \"_id\" for model \"Product\"","stack":"CastError: Cast to ObjectId failed for value \"a\" at path \"_id\" for model \"Product\"\n    at new CastError (E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\mongoose\\lib\\error\\cast.js:29:11)\n    at ObjectId.Object.<anonymous>.ObjectId.cast (E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\mongoose\\lib\\schema\\objectid.js:242:11)\n    at ObjectId.Object.<anonymous>.SchemaType.applySetters (E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\mongoose\\lib\\schematype.js:849:12)\n    at ObjectId.Object.<anonymous>.SchemaType._castForQuery (E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\mongoose\\lib\\schematype.js:1252:15)\n    at ObjectId.Object.<anonymous>.SchemaType.castForQuery (E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\mongoose\\lib\\schematype.js:1242:15)\n    at ObjectId.Object.<anonymous>.SchemaType.castForQueryWrapper (E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\mongoose\\lib\\schematype.js:1221:15)\n    at cast (E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\mongoose\\lib\\cast.js:307:32)\n    at model.Query.Object.<anonymous>.Query.cast (E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\mongoose\\lib\\query.js:4340:12)\n    at model.Query.Object.<anonymous>.Query._castConditions (E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\mongoose\\lib\\query.js:1723:10)\n    at model.Query.<anonymous> (E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\mongoose\\lib\\query.js:1976:8)\n    at model.Query._wrappedThunk [as _findOne] (E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\mongoose\\lib\\helpers\\query\\wrapThunk.js:16:8)\n    at process.nextTick (E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\kareem\\index.js:369:33)\n    at process._tickCallback (internal/process/next_tick.js:61:11)","name":"CastError","stringValue":"\"a\"","kind":"ObjectId","value":"a","path":"_id","level":"error","timestamp":"2019-03-23T18:05:55.619Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T18:05:56.657Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T18:05:57.158Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T18:05:58.202Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T18:05:59.710Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T18:06:00.788Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T18:07:18.677Z"}
+{"message":"Cast to ObjectId failed for value \"a\" at path \"_id\" for model \"Product\"","stack":"CastError: Cast to ObjectId failed for value \"a\" at path \"_id\" for model \"Product\"\n    at new CastError (E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\mongoose\\lib\\error\\cast.js:29:11)\n    at ObjectId.Object.<anonymous>.ObjectId.cast (E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\mongoose\\lib\\schema\\objectid.js:242:11)\n    at ObjectId.Object.<anonymous>.SchemaType.applySetters (E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\mongoose\\lib\\schematype.js:849:12)\n    at ObjectId.Object.<anonymous>.SchemaType._castForQuery (E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\mongoose\\lib\\schematype.js:1252:15)\n    at ObjectId.Object.<anonymous>.SchemaType.castForQuery (E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\mongoose\\lib\\schematype.js:1242:15)\n    at ObjectId.Object.<anonymous>.SchemaType.castForQueryWrapper (E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\mongoose\\lib\\schematype.js:1221:15)\n    at cast (E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\mongoose\\lib\\cast.js:307:32)\n    at model.Query.Object.<anonymous>.Query.cast (E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\mongoose\\lib\\query.js:4340:12)\n    at model.Query.Object.<anonymous>.Query._castConditions (E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\mongoose\\lib\\query.js:1723:10)\n    at model.Query.<anonymous> (E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\mongoose\\lib\\query.js:1976:8)\n    at model.Query._wrappedThunk [as _findOne] (E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\mongoose\\lib\\helpers\\query\\wrapThunk.js:16:8)\n    at process.nextTick (E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\kareem\\index.js:369:33)\n    at process._tickCallback (internal/process/next_tick.js:61:11)","name":"CastError","stringValue":"\"a\"","kind":"ObjectId","value":"a","path":"_id","level":"error","timestamp":"2019-03-23T18:07:18.710Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T18:07:28.662Z"}
+{"message":"Cast to ObjectId failed for value \"a\" at path \"_id\" for model \"Product\"","stack":"CastError: Cast to ObjectId failed for value \"a\" at path \"_id\" for model \"Product\"\n    at new CastError (E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\mongoose\\lib\\error\\cast.js:29:11)\n    at ObjectId.Object.<anonymous>.ObjectId.cast (E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\mongoose\\lib\\schema\\objectid.js:242:11)\n    at ObjectId.Object.<anonymous>.SchemaType.applySetters (E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\mongoose\\lib\\schematype.js:849:12)\n    at ObjectId.Object.<anonymous>.SchemaType._castForQuery (E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\mongoose\\lib\\schematype.js:1252:15)\n    at ObjectId.Object.<anonymous>.SchemaType.castForQuery (E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\mongoose\\lib\\schematype.js:1242:15)\n    at ObjectId.Object.<anonymous>.SchemaType.castForQueryWrapper (E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\mongoose\\lib\\schematype.js:1221:15)\n    at cast (E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\mongoose\\lib\\cast.js:307:32)\n    at model.Query.Object.<anonymous>.Query.cast (E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\mongoose\\lib\\query.js:4340:12)\n    at model.Query.Object.<anonymous>.Query._castConditions (E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\mongoose\\lib\\query.js:1723:10)\n    at model.Query.<anonymous> (E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\mongoose\\lib\\query.js:1976:8)\n    at model.Query._wrappedThunk [as _findOne] (E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\mongoose\\lib\\helpers\\query\\wrapThunk.js:16:8)\n    at process.nextTick (E:\\Docs\\Projects\\ModernReact\\store-manager-api\\node_modules\\kareem\\index.js:369:33)\n    at process._tickCallback (internal/process/next_tick.js:61:11)","name":"CastError","stringValue":"\"a\"","kind":"ObjectId","value":"a","path":"_id","level":"error","timestamp":"2019-03-23T18:07:28.719Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T18:07:29.760Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T18:07:30.418Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T18:07:31.473Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T18:07:33.109Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T18:07:34.169Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T18:09:25.686Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T18:09:26.767Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T18:09:27.247Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T18:09:28.312Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T18:09:29.844Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T18:09:30.895Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T18:10:02.620Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T18:10:03.685Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T18:10:04.166Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T18:10:05.215Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T18:10:06.724Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T18:10:07.767Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T18:10:14.160Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T18:10:15.244Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T18:10:15.692Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T18:10:16.746Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T18:10:18.276Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T18:10:19.328Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T18:10:39.781Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T18:10:40.859Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T18:10:41.309Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T18:10:42.385Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T18:10:43.948Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T18:10:45.007Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T18:11:24.395Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T18:11:25.463Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T18:11:25.940Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T18:11:26.994Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T18:11:28.504Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T18:11:29.570Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T18:12:12.235Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T18:12:13.354Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T18:12:14.022Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T18:12:15.083Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T18:12:16.658Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T18:12:17.703Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T18:12:58.826Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T18:12:59.882Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T18:13:00.375Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T18:13:01.432Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T18:13:13.277Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T18:13:14.395Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T18:13:15.043Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T18:13:16.096Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T18:13:17.748Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T18:13:18.808Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T18:13:39.750Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T18:13:40.858Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T18:13:41.504Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T18:13:42.564Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T18:13:44.228Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T18:13:45.273Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T18:14:07.439Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T18:14:08.549Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T18:14:09.148Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T18:14:10.209Z"}
+{"level":"info","message":"Listening on port 3900 ...","timestamp":"2019-03-23T18:14:11.833Z"}
+{"level":"info","message":"Connected to mongodb://localhost/store-manager-tests ...","timestamp":"2019-03-23T18:14:12.901Z"}

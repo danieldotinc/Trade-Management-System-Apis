@@ -9,8 +9,8 @@ describe("/api/categories", () => {
   });
 
   afterEach(async () => {
-    await server.close();
     await Category.remove({});
+    await server.close();
   });
 
   describe("GET /", () => {
@@ -46,8 +46,8 @@ describe("/api/categories", () => {
     let token;
     let name;
 
-    const exec = async () => {
-      return await request(server)
+    const exec = () => {
+      return request(server)
         .post("/api/categories")
         .set("x-auth-token", token)
         .send({ name });
