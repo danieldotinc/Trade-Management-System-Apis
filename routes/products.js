@@ -28,7 +28,7 @@ router.put("/:id", [auth, validateObjectId], async (req, res) => {
   res.send(product);
 });
 
-router.delete("/:id", [auth, admin], async (req, res) => {
+router.delete("/:id", [auth, admin, validateObjectId], async (req, res) => {
   const product = await Product.findByIdAndRemove(req.params.id);
   if (!product)
     return res.status(404).send("The product with given id not found!");
