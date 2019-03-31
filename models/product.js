@@ -12,9 +12,18 @@ const productSchema = new mongoose.Schema({
   },
   proCode: String,
   diverseCode: String,
+  myKitchenCode: String,
+  myKitchenPlusCode: String,
+  nikradCode: String,
+  nikradText: String,
   name: String,
   brand: String,
-  buyPrice: String,
+  tradeListPrice: String,
+  tradeBuyingPrice: String,
+  buyingPriceHistory: String,
+  valueAdded: String,
+  commission: String,
+  shippingCosts: String,
   refPrice: String,
   breakEvenPrice: String,
   wholePrice: String,
@@ -23,7 +32,11 @@ const productSchema = new mongoose.Schema({
   retailStoreStock: String,
   wholeStoreStock: String,
   virtualStoreStock: String,
-  boxQuantity: String
+  boxQuantity: String,
+  width: String,
+  length: String,
+  height: String,
+  weight: String
 });
 
 const Product = mongoose.model("Product", productSchema);

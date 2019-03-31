@@ -1,6 +1,7 @@
 const express = require("express");
 const products = require("../routes/products");
 const categories = require("../routes/categories");
+const marketPlaces = require("../routes/marketPlaces");
 const persons = require("../routes/persons");
 const identities = require("../routes/identities");
 const companies = require("../routes/companies");
@@ -14,6 +15,7 @@ module.exports = function(app) {
   app.use(express.json());
   app.use("/api/products", products);
   app.use("/api/categories", categories);
+  app.use("/api/marketPlaces", marketPlaces);
   app.use("/api/persons", persons);
   app.use("/api/identities", identities);
   app.use("/api/companies", companies);
