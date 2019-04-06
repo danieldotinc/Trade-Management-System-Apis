@@ -1,4 +1,5 @@
 const express = require("express");
+const settings = require("../routes/settings");
 const products = require("../routes/products");
 const categories = require("../routes/categories");
 const marketPlaces = require("../routes/marketPlaces");
@@ -13,6 +14,7 @@ const error = require("../middleware/error");
 
 module.exports = function(app) {
   app.use(express.json());
+  app.use("/api/settings", settings);
   app.use("/api/products", products);
   app.use("/api/categories", categories);
   app.use("/api/marketPlaces", marketPlaces);
