@@ -1,4 +1,5 @@
 const express = require("express");
+const cors = require("cors");
 const settings = require("../routes/settings");
 const products = require("../routes/products");
 const categories = require("../routes/categories");
@@ -14,6 +15,7 @@ const error = require("../middleware/error");
 
 module.exports = function(app) {
   app.use(express.json());
+  app.use(cors());
   app.use("/api/settings", settings);
   app.use("/api/products", products);
   app.use("/api/categories", categories);

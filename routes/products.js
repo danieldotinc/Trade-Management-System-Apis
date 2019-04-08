@@ -3,75 +3,59 @@ const admin = require("../middleware/admin");
 const validateObjectId = require("../middleware/validateObjectId");
 const express = require("express");
 const multer = require("multer");
-const fs = require("fs");
-const path = require("path");
-const { Product, validate } = require("../models/product");
+
+const { Product } = require("../models/product");
 const router = express.Router();
 
-const handleError = (err, res) => {
-  res
-    .status(500)
-    .contentType("text/plain")
-    .send("Oops! Something went wrong!");
-};
-
-const upload = multer({
-  dest: "../files"
+var storage = multer.diskStorage({
+  destination: (req, file, cb) => {
+    cb(null, "files");
+  },
+  filename: (req, file, cb) => {
+    cb(null, file.originalname);
+  }
 });
+
+var upload = multer({ storage }).array("file");
 
 router.get("/", auth, async (req, res) => {
   const products = await Product.find();
   res.send(products);
 });
 
-router.post(
-  "/",
-  upload.single("file" /* name attribute of <file> element in your form */),
-  (req, res) => {
-    const tempPath = req.body.file.path;
-    const targetPath = path.join(__dirname, "./uploads/image.png");
-
-    if (path.extname(req.body.file.originalname).toLowerCase() === ".png") {
-      fs.rename(tempPath, targetPath, async err => {
-        if (err) return handleError(err, res);
-
-        const product = new Product(req.body);
-        await product.save();
-        res.send(product);
-        res
-          .status(200)
-          .contentType("text/plain")
-          .send("File uploaded!");
-      });
-    } else {
-      fs.unlink(tempPath, err => {
-        if (err) return handleError(err, res);
-
-        res
-          .status(403)
-          .contentType("text/plain")
-          .send("Only .png files are allowed!");
-      });
+router.post("/", auth, (req, res) => {
+  // const { error } = validate(req.body);
+  // if (error) return res.status(400).send(error.details[0].message);
+  upload(req, res, async err => {
+    if (err instanceof multer.MulterError) {
+      return res.status(500).json(err);
+    } else if (err) {
+      return res.status(500).json(err);
     }
-  }
-);
+    const newReq = { ...req.body };
+    newReq.imgs = newReq.imgs.split(",");
+    const product = new Product(newReq);
+    await product.save();
+    res.send(product);
+  });
+});
 
-// router.post("/", auth, async (req, res) => {
-//   // const { error } = validate(req.body);
-//   // if (error) return res.status(400).send(error.details[0].message);
-
-//   const product = new Product(req.body);
-//   await product.save();
-//   res.send(product);
-// });
-
-router.put("/:id", [auth, validateObjectId], async (req, res) => {
-  const product = await Product.findByIdAndUpdate(
-    { _id: req.params.id },
-    req.body,
-    { new: true }
-  );
-  res.send(product);
+router.put("/:id", [auth, validateObjectId], (req, res) => {
+  upload(req, res, async err => {
+    if (err instanceof multer.MulterError) {
+      return res.status(500).json(err);
+    } else if (err) {
+      return res.status(500).json(err);
+    }
+    const newReq = { ...req.body };
+    newReq.imgs = newReq.imgs.split(",");
+    const product = await Product.findByIdAndUpdate(
+      { _id: req.params.id },
+      newReq,
+      { new: true }
+    );
+    res.send(product);
+  });
 });
 
 router.delete("/:id", [auth, admin, validateObjectId], async (req, res) => {
