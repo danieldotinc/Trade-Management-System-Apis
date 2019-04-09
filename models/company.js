@@ -8,14 +8,17 @@ const companySchema = new mongoose.Schema({
     maxlength: 255,
     required: true
   },
-  marketSector: {
+  city: String,
+  marketSector: "",
+  marketSectorId: {
     type: mongoose.Schema.Types.ObjectId,
     ref: "marketsector"
   },
   telephone1: Number,
   telephone2: Number,
   address: String,
-  postalCode: Number
+  postalCode: Number,
+  explanation: String
 });
 
 const Company = mongoose.model("Company", companySchema);
