@@ -33,7 +33,7 @@ router.post("/", auth, (req, res) => {
       return res.status(500).json(err);
     }
     const newReq = { ...req.body };
-    newReq.imgs = newReq.imgs.split(",");
+    newReq.imgs = newReq.imgs.toString().split(",");
     const product = new Product(newReq);
     await product.save();
     res.send(product);
@@ -48,7 +48,7 @@ router.put("/:id", [auth, validateObjectId], (req, res) => {
       return res.status(500).json(err);
     }
     const newReq = { ...req.body };
-    newReq.imgs = newReq.imgs.split(",");
+    newReq.imgs = newReq.imgs.toString().split(",");
     const product = await Product.findByIdAndUpdate(
       { _id: req.params.id },
       newReq,
