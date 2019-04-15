@@ -5,19 +5,40 @@ const mongoose = require("mongoose");
 const productSchema = new mongoose.Schema({
   img: String,
   imgs: [String],
-  category: "",
+  category: String,
   categoryId: {
     type: mongoose.Schema.Types.ObjectId,
-    ref: "categories"
+    ref: "Category"
   },
+  subCategory: String,
+  subCategoryId: {
+    type: mongoose.Schema.Types.ObjectId,
+    ref: "SubCategory"
+  },
+  webLink: String,
+  itemNumber: String,
   proCode: String,
   diverseCode: String,
   myKitchenCode: String,
   myKitchenPlusCode: String,
   nikradCode: String,
-  nikradText: String,
   name: String,
   brand: String,
+  color: String,
+  colorId: {
+    type: mongoose.Schema.Types.ObjectId,
+    ref: "Color"
+  },
+  material: String,
+  materialId: {
+    type: mongoose.Schema.Types.ObjectId,
+    ref: "Material"
+  },
+  supplier: String,
+  supplierId: {
+    type: mongoose.Schema.Types.ObjectId,
+    ref: "Supplier"
+  },
   tradeListPrice: String,
   tradeBuyingPrice: String,
   buyingPriceHistory: String,
