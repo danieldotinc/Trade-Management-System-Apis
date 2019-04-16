@@ -6,6 +6,7 @@ const colors = require("../routes/colors");
 const suppliers = require("../routes/suppliers");
 const materials = require("../routes/materials");
 const subCategories = require("../routes/subCategories");
+const groups = require("../routes/groups");
 const categories = require("../routes/categories");
 const marketPlaces = require("../routes/marketPlaces");
 const persons = require("../routes/persons");
@@ -26,6 +27,7 @@ module.exports = function(app) {
   app.use("/api/materials", materials);
   app.use("/api/suppliers", suppliers);
   app.use("/api/subCategories", subCategories);
+  app.use("/api/groups", groups);
   app.use("/api/categories", categories);
   app.use("/api/marketPlaces", marketPlaces);
   app.use("/api/persons", persons);
