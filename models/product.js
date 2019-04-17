@@ -19,7 +19,7 @@ const productSchema = new mongoose.Schema({
   itemNumber: String,
   proCode: String,
   diverseCode: String,
-  taminMall: String,
+  taminMallCode: String,
   nikradCode: String,
   name: String,
   brand: String,

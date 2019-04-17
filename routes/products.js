@@ -26,18 +26,42 @@ router.get("/", auth, async (req, res) => {
 router.post("/", auth, (req, res) => {
   // const { error } = validate(req.body);
   // if (error) return res.status(400).send(error.details[0].message);
+
   upload(req, res, async err => {
     if (err instanceof multer.MulterError) {
       return res.status(500).json(err);
     } else if (err) {
       return res.status(500).json(err);
     }
-    const newReq = { ...req.body };
+    const lastProduct = await Product.find()
+      .sort({ field: -_id })
+      .limit(1);
+    const proCode = lastProduct[0].proCode
+      ? parseInt(lastProduct[0].proCode) + 1
+      : 0;
+    const diverseCode = lastProduct[0].diverseCode
+      ? parseInt(lastProduct[0].diverseCode) + 1
+      : 0;
+    const newReq = { ...req.body, proCode, diverseCode };
     newReq.imgs = newReq.imgs.toString().split(",");
     const product = new Product(newReq);
     await product.save();
     res.send(product);
   });
+});
+
+router.post("/diversity", auth, async (req, res) => {
+  const lastProduct = await Product.find()
+    .sort({ field: -_id })
+    .limit(1);
+  const diverseCode = lastProduct[0].diverseCode
+    ? parseInt(lastProduct[0].diverseCode) + 1
+    : 0;
+  const newReq = { ...req.body };
+  newReq.diverseCode = diverseCode;
+  const product = new Product(newReq);
+  await product.save();
+  res.send(product);
 });
 
 router.put("/:id", [auth, validateObjectId], (req, res) => {

@@ -1,5 +1,6 @@
 const express = require("express");
 const cors = require("cors");
+const importCsv = require("../import");
 const settings = require("../routes/settings");
 const products = require("../routes/products");
 const colors = require("../routes/colors");
@@ -21,6 +22,7 @@ const error = require("../middleware/error");
 module.exports = function(app) {
   app.use(express.json());
   app.use(cors());
+  app.use("/api/import", importCsv);
   app.use("/api/settings", settings);
   app.use("/api/products", products);
   app.use("/api/colors", colors);
