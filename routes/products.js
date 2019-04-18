@@ -34,13 +34,18 @@ router.post("/", auth, (req, res) => {
       return res.status(500).json(err);
     }
     const lastProduct = await Product.find()
-      .sort({ field: -_id })
+      .sort({ _id: -1 })
       .limit(1);
-    const proCode = lastProduct[0].proCode
-      ? parseInt(lastProduct[0].proCode) + 1
-      : 0;
     const diverseCode = lastProduct[0].diverseCode
       ? parseInt(lastProduct[0].diverseCode) + 1
+      : 0;
+
+    const lastProCode = await Product.find()
+      .sort({ proCode: -1 })
+      .limit(1);
+
+    const proCode = lastProCode[0].proCode
+      ? parseInt(lastProCode[0].proCode) + 1
       : 0;
     const newReq = { ...req.body, proCode, diverseCode };
     newReq.imgs = newReq.imgs.toString().split(",");
@@ -52,13 +57,15 @@ router.post("/", auth, (req, res) => {
 
 router.post("/diversity", auth, async (req, res) => {
   const lastProduct = await Product.find()
-    .sort({ field: -_id })
+    .sort({ _id: -1 })
     .limit(1);
-  const diverseCode = lastProduct[0].diverseCode
-    ? parseInt(lastProduct[0].diverseCode) + 1
-    : 0;
   const newReq = { ...req.body };
-  newReq.diverseCode = diverseCode;
+  if (lastProduct[0].diverseCode == "0" || lastProduct[0].diverseCode) {
+    newReq.diverseCode = parseInt(lastProduct[0].diverseCode) + 1;
+  } else {
+    newReq.diverseCode = 0;
+  }
+
   const product = new Product(newReq);
   await product.save();
   res.send(product);

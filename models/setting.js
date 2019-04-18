@@ -2,11 +2,11 @@ const Joi = require("joi");
 const mongoose = require("mongoose");
 
 const settingSchema = new mongoose.Schema({
-  valueAdded: String,
-  shippingCosts: String,
-  wholeProfit: String,
-  retailProfit: String,
-  marketPlaceProfit: String,
+  valueAdded: Number,
+  shippingCosts: Number,
+  wholeProfit: Number,
+  retailProfit: Number,
+  marketPlaceProfit: Number,
   addAction: Boolean,
   editAction: Boolean,
   deleteAction: Boolean,

@@ -18,7 +18,7 @@ router.post("/", async (req, res) => {
         subCategoryId: data[5],
         group: data[6],
         groupId: data[7],
-        weblink: data[8],
+        webLink: data[8],
         itemNumber: data[9],
         proCode: data[10],
         name: data[11],
