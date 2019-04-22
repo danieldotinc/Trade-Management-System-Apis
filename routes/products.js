@@ -33,21 +33,34 @@ router.post("/", auth, (req, res) => {
     } else if (err) {
       return res.status(500).json(err);
     }
+
+    const newReq = { ...req.body };
     const lastProduct = await Product.find()
       .sort({ _id: -1 })
       .limit(1);
-    const diverseCode = lastProduct[0].diverseCode
-      ? parseInt(lastProduct[0].diverseCode) + 1
-      : 0;
+
+    if (
+      (lastProduct[0] && lastProduct[0].diverseCode == "0") ||
+      (lastProduct[0] && lastProduct[0].diverseCode)
+    ) {
+      newReq.diverseCode = parseInt(lastProduct[0].diverseCode) + 1;
+    } else {
+      newReq.diverseCode = 0;
+    }
 
     const lastProCode = await Product.find()
       .sort({ proCode: -1 })
       .limit(1);
 
-    const proCode = lastProCode[0].proCode
-      ? parseInt(lastProCode[0].proCode) + 1
-      : 0;
-    const newReq = { ...req.body, proCode, diverseCode };
+    if (
+      (lastProCode[0] && lastProCode[0].proCode == "0") ||
+      (lastProCode[0] && lastProCode[0].proCode)
+    ) {
+      newReq.proCode = parseInt(lastProCode[0].proCode) + 1;
+    } else {
+      newReq.proCode = 0;
+    }
+
     newReq.imgs = newReq.imgs.toString().split(",");
     const product = new Product(newReq);
     await product.save();
