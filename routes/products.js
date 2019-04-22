@@ -1,8 +1,8 @@
 const auth = require("../middleware/auth");
 const admin = require("../middleware/admin");
 const validateObjectId = require("../middleware/validateObjectId");
-const express = require("express");
 const multer = require("multer");
+const express = require("express");
 
 const { Product } = require("../models/product");
 const router = express.Router();
