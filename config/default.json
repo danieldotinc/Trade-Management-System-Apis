@@ -1,4 +1,4 @@
 {
-  "jwtPrivateKey": "",
+  "jwtPrivateKey": "daniel",
   "db": "mongodb://localhost/store-manager"
 }
