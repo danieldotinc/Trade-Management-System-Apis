@@ -6,6 +6,8 @@ const csvfile = __dirname + "/data.csv";
 const stream = fs.createReadStream(csvfile);
 const router = express.Router();
 
+const arr_pro = [];
+
 router.post("/", async (req, res) => {
   const csvStream = csv()
     .on("data", async data => {
@@ -20,7 +22,7 @@ router.post("/", async (req, res) => {
         groupId: data[7],
         webLink: data[8],
         itemNumber: data[9],
-        proCode: data[10],
+        nikradCode: data[10],
         name: data[11],
         brand: data[12],
         color: data[13],
@@ -31,16 +33,60 @@ router.post("/", async (req, res) => {
         supplierId: data[18],
         tradeBuyingPrice: data[19]
       };
-      const item = new Product(pro);
-
-      await item.save();
+      arr_pro.push(pro);
     })
     .on("end", () => {
-      console.log(" End of file import");
+      console.log("End of file import");
+      startSaving();
     });
 
   stream.pipe(csvStream);
   res.send("Data imported successfully.");
 });
+
+const startSaving = () => {
+  for (let i = 0; i < arr_pro.length; i++) {
+    setTimeout(function() {
+      addCode(arr_pro[i]);
+    }, 1500 * i + 2000);
+  }
+};
+
+const addCode = async pro => {
+  const lastProduct = await Product.find()
+    .sort({ _id: -1 })
+    .limit(1);
+
+  if (
+    (lastProduct[0] && lastProduct[0].diverseCode == "0") ||
+    (lastProduct[0] && lastProduct[0].diverseCode)
+  ) {
+    pro.diverseCode = parseInt(lastProduct[0].diverseCode) + 1;
+  } else {
+    pro.diverseCode = 0;
+  }
+
+  const nikrad = await Product.findOne({ nikradCode: pro.nikradCode });
+  if (nikrad) {
+    pro.proCode = nikrad.proCode;
+  } else {
+    const lastProCode = await Product.find()
+      .sort({ proCode: -1 })
+      .limit(1);
+
+    if (
+      (lastProCode[0] && lastProCode[0].proCode == "0") ||
+      (lastProCode[0] && lastProCode[0].proCode)
+    ) {
+      pro.proCode = parseInt(lastProCode[0].proCode) + 1;
+    } else {
+      pro.proCode = 0;
+    }
+  }
+
+  const item = new Product(pro);
+  await item.save();
+  console.log(item.nikradCode);
+};
 
 module.exports = router;

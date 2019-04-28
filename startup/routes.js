@@ -1,6 +1,8 @@
 const express = require("express");
+const path = require("path");
 const cors = require("cors");
 const importCsv = require("../import");
+const client = require("../routes/client");
 const settings = require("../routes/settings");
 const products = require("../routes/products");
 const colors = require("../routes/colors");
@@ -22,6 +24,7 @@ const error = require("../middleware/error");
 module.exports = function(app) {
   app.use(express.json());
   app.use(cors());
+  app.use(express.static(path.join(__dirname, "../../store-manager/build")));
   app.use("/api/import", importCsv);
   app.use("/api/settings", settings);
   app.use("/api/products", products);
@@ -40,4 +43,5 @@ module.exports = function(app) {
   app.use("/api/users", users);
   app.use("/api/auth", auth);
   app.use(error);
+  app.use("*", client);
 };
