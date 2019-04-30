@@ -22,7 +22,7 @@ router.post("/", async (req, res) => {
         groupId: data[7],
         webLink: data[8],
         itemNumber: data[9],
-        nikradCode: data[10],
+        marketCode: data[10],
         name: data[11],
         brand: data[12],
         color: data[13],
@@ -66,7 +66,7 @@ const addCode = async pro => {
     pro.diverseCode = 0;
   }
 
-  const nikrad = await Product.findOne({ nikradCode: pro.nikradCode });
+  const nikrad = await Product.findOne({ marketCode: pro.marketCode });
   if (nikrad) {
     pro.proCode = nikrad.proCode;
   } else {
@@ -86,7 +86,7 @@ const addCode = async pro => {
 
   const item = new Product(pro);
   await item.save();
-  console.log(item.nikradCode);
+  console.log(item.marketCode);
 };
 
 module.exports = router;
