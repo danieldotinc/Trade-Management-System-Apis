@@ -9,10 +9,10 @@ const router = express.Router();
 
 var storage = multer.diskStorage({
   destination: (req, file, cb) => {
-    cb(null, "../store-manager/public");
+    cb(null, "../store-manager-api/build");
   },
   filename: (req, file, cb) => {
-    cb(null, file.originalname);
+    cb(null, file.originalname.toString().replace(new RegExp(" ", "g"), ""));
   }
 });
 
@@ -62,6 +62,13 @@ router.post("/", auth, (req, res) => {
     }
 
     newReq.imgs = newReq.imgs.toString().split(",");
+    for (let i = 0; i < newReq.imgs.length; i++) {
+      newReq.imgs[i] = newReq.imgs[i]
+        .toString()
+        .replace(new RegExp(" ", "g"), "");
+    }
+    newReq.img =
+      newReq.img && newReq.img.toString().replace(new RegExp(" ", "g"), "");
     const product = new Product(newReq);
     await product.save();
     res.send(product);
@@ -93,6 +100,13 @@ router.put("/:id", [auth, validateObjectId], (req, res) => {
     }
     const newReq = { ...req.body };
     newReq.imgs = newReq.imgs.toString().split(",");
+    for (let i = 0; i < newReq.imgs.length; i++) {
+      newReq.imgs[i] = newReq.imgs[i]
+        .toString()
+        .replace(new RegExp(" ", "g"), "");
+    }
+    newReq.img =
+      newReq.img && newReq.img.toString().replace(new RegExp(" ", "g"), "");
     const product = await Product.findByIdAndUpdate(
       { _id: req.params.id },
       newReq,
