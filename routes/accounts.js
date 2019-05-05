@@ -6,7 +6,7 @@ const { Account, validate } = require("../models/account");
 const router = express.Router();
 
 router.get("/", async (req, res) => {
-  const accounts = await Account.find();
+  const accounts = await Account.find().sort({ _id: 1 });
   res.send(accounts);
 });
 

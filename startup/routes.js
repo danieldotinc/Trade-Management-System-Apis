@@ -2,7 +2,9 @@ const express = require("express");
 const path = require("path");
 const cors = require("cors");
 const importCsv = require("../import");
+const payments = require("../routes/payments");
 const client = require("../routes/client");
+const counters = require("../routes/counters");
 const accounts = require("../routes/accounts");
 const accountLevels = require("../routes/accountLevels");
 const accountTypes = require("../routes/accountTypes");
@@ -29,6 +31,8 @@ module.exports = function(app) {
   app.use(cors());
   app.use(express.static(path.join(__dirname, "../build")));
   app.use("/api/import", importCsv);
+  app.use("/api/counters", counters);
+  app.use("/api/payments", payments);
   app.use("/api/accounts", accounts);
   app.use("/api/accountTypes", accountTypes);
   app.use("/api/accountLevels", accountLevels);
