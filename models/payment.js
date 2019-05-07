@@ -3,6 +3,11 @@ Joi.objectId = require("joi-objectid")(Joi);
 const mongoose = require("mongoose");
 
 const paymentSchema = new mongoose.Schema({
+  accountType: "",
+  accountTypeId: {
+    type: mongoose.Schema.Types.ObjectId,
+    ref: "AccountType"
+  },
   account: "",
   accountId: {
     type: mongoose.Schema.Types.ObjectId,
@@ -11,28 +16,34 @@ const paymentSchema = new mongoose.Schema({
   document: Number,
   name: String,
   price: Number,
-  type: Boolean,
+  type: String,
   status: String,
   person: String,
   personId: {
     type: mongoose.Schema.Types.ObjectId,
     ref: "Person"
-  }
+  },
+  date: String,
+  update: String
 });
 
 const Payment = mongoose.model("Payment", paymentSchema);
 
 function validatePayment(payment) {
   const schema = {
+    accountType: Joi.string(),
+    accountTypeId: Joi.objectId(),
     account: Joi.string().required(),
     accountId: Joi.objectId().required(),
-    name: Joi.string().required(),
+    name: Joi.string(),
     price: Joi.number().required(),
-    document: Joi.number().required(),
-    type: Joi.boolean().required(),
+    document: Joi.number(),
+    type: Joi.string().required(),
     status: Joi.string().required(),
     person: Joi.string().required(),
-    personId: Joi.objectId().required()
+    personId: Joi.objectId().required(),
+    date: Joi.string(),
+    update: Joi.string()
   };
   return Joi.validate(payment, schema);
 }

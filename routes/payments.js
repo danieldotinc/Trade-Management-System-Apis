@@ -1,4 +1,5 @@
 const auth = require("../middleware/auth");
+const persianDate = require("persian-date");
 const admin = require("../middleware/admin");
 const validateObjectId = require("../middleware/validateObjectId");
 const express = require("express");
@@ -11,19 +12,23 @@ router.get("/", async (req, res) => {
 });
 
 router.post("/", auth, async (req, res) => {
-  const { error } = validate(req.body);
+  const now = new persianDate().format("YYYY-MM-DD HH:mm:ss");
+  let reqBody = { ...req.body, date: now.toString(), update: now.toString() };
+  const { error } = validate(reqBody);
   if (error) return res.status(400).send(error.details[0].message);
 
-  const payment = new Payment(req.body);
+  const payment = new Payment(reqBody);
   await payment.save();
 
   res.send(payment);
 });
 
 router.put("/:id", async (req, res) => {
+  const now = new persianDate().format("YYYY-MM-DD HH:mm:ss");
+  let reqBody = { ...req.body, update: now.toString() };
   const payment = await Payment.findByIdAndUpdate(
     { _id: req.params.id },
-    req.body,
+    reqBody,
     { new: true }
   );
   res.send(payment);
