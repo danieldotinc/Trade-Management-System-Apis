@@ -47,17 +47,17 @@ describe("/api/products", () => {
       expect(res.status).toBe(401);
     });
 
-    it("should return 400 if name is less than 3 characters", async () => {
-      name = "";
-      const res = await exec();
-      expect(res.status).toBe(400);
-    });
+    // it("should return 400 if name is less than 3 characters", async () => {
+    //   name = "";
+    //   const res = await exec();
+    //   expect(res.status).toBe(400);
+    // });
 
-    it("should return 400 if name is more than 50 characters", async () => {
-      name = new Array(257).join("a");
-      const res = await exec();
-      expect(res.status).toBe(400);
-    });
+    // it("should return 400 if name is more than 50 characters", async () => {
+    //   name = new Array(257).join("a");
+    //   const res = await exec();
+    //   expect(res.status).toBe(400);
+    // });
 
     it("should save the product if name is valid", async () => {
       await exec();

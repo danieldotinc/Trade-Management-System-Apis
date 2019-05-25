@@ -26,5 +26,7 @@
     "winston": "2.4.0",
     "winston-mongodb": "3.0.0"
   },
-  "devDependencies": {}
+  "devDependencies": {
+    "jest": "^24.8.0"
+  }
 }
