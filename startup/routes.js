@@ -2,6 +2,7 @@ const express = require("express");
 const path = require("path");
 const cors = require("cors");
 const importCsv = require("../import");
+const importData = require("../routes/importData");
 const payments = require("../routes/payments");
 const client = require("../routes/client");
 const counters = require("../routes/counters");
@@ -31,6 +32,7 @@ module.exports = function(app) {
   app.use(cors());
   app.use(express.static(path.join(__dirname, "../build")));
   app.use("/api/import", importCsv);
+  app.use("/api/importData", importData);
   app.use("/api/counters", counters);
   app.use("/api/payments", payments);
   app.use("/api/accounts", accounts);
