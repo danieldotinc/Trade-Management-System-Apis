@@ -35,9 +35,13 @@
     "path": "^0.12.7",
     "persian-date": "^1.0.5",
     "request": "^2.88.0",
+    "requestify": "^0.2.5",
     "supertest": "^4.0.2",
     "winston": "2.4.0",
-    "winston-mongodb": "3.0.0"
+    "winston-mongodb": "3.0.0",
+    "xml-js": "^1.6.11",
+    "xml-to-json-stream": "^1.1.0",
+    "xml2js": "^0.4.19"
   },
   "devDependencies": {
     "jest": "^24.8.0"

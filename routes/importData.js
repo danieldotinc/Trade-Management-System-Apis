@@ -49,7 +49,7 @@ router.post("/", (req, res) => {
   importData(Material, materialData);
   importData(Payment, paymentData);
   importData(Person, personData);
-  importData(Product, productData);
+  // importData(Product, productData);
   importData(Setting, settingData);
   importData(SubCategory, subCategoryData);
   importData(Supplier, supplierData);

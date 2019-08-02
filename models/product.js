@@ -22,6 +22,7 @@ const productSchema = new mongoose.Schema({
   taminMallCode: String,
   marketCode: String,
   name: String,
+  description: String,
   brand: String,
   color: String,
   colorId: {
@@ -56,7 +57,8 @@ const productSchema = new mongoose.Schema({
   width: String,
   length: String,
   height: String,
-  weight: String
+  weight: String,
+  flag: String
 });
 
 const Product = mongoose.model("Product", productSchema);
