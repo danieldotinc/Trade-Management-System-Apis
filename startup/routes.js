@@ -5,6 +5,7 @@ const importCsv = require("../import");
 const importData = require("../routes/importData");
 const syncProducts = require("../routes/syncProducts");
 const payments = require("../routes/payments");
+const invoices = require("../routes/invoices");
 const client = require("../routes/client");
 const counters = require("../routes/counters");
 const accounts = require("../routes/accounts");
@@ -36,6 +37,7 @@ module.exports = function(app) {
   app.use("/api/importData", importData);
   app.use("/api/syncProducts", syncProducts);
   app.use("/api/counters", counters);
+  app.use("/api/invoices", invoices);
   app.use("/api/payments", payments);
   app.use("/api/accounts", accounts);
   app.use("/api/accountTypes", accountTypes);
