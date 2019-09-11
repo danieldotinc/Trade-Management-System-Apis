@@ -3,10 +3,15 @@ Joi.objectId = require("joi-objectid")(Joi);
 const mongoose = require("mongoose");
 
 const invoiceSchema = new mongoose.Schema({
+  name: String,
   invoiceType: String,
   sellerName: String,
   sellerAddress: String,
   sellerPhoneNumber: String,
+  buyerId: {
+    type: mongoose.Schema.Types.ObjectId,
+    ref: "Person"
+  },
   buyerName: String,
   buyerAddress: String,
   buyerPhoneNumber: String,

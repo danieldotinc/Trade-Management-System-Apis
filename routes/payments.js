@@ -14,8 +14,8 @@ router.get("/", async (req, res) => {
 router.post("/", auth, async (req, res) => {
   const now = new persianDate().format("YYYY-MM-DD HH:mm:ss");
   let reqBody = { ...req.body, date: now.toString(), update: now.toString() };
-  const { error } = validate(reqBody);
-  if (error) return res.status(400).send(error.details[0].message);
+  // const { error } = validate(reqBody);
+  // if (error) return res.status(400).send(error.details[0].message);
 
   const payment = new Payment(reqBody);
   await payment.save();

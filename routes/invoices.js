@@ -7,7 +7,7 @@ const { Invoice, validate } = require("../models/invoice");
 const router = express.Router();
 
 router.get("/", async (req, res) => {
-  const invoices = await Invoice.find();
+  const invoices = await Invoice.find().sort({ _id: -1 });
   res.send(invoices);
 });
 

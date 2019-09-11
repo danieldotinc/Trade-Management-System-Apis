@@ -14,15 +14,19 @@ const paymentSchema = new mongoose.Schema({
     ref: "Account"
   },
   document: Number,
-  name: String,
-  price: Number,
-  type: String,
-  status: String,
+  invoice: String,
+  invoiceId: {
+    type: mongoose.Schema.Types.ObjectId,
+    ref: "Invoice"
+  },
   person: String,
   personId: {
     type: mongoose.Schema.Types.ObjectId,
     ref: "Person"
   },
+  price: Number,
+  type: String,
+  status: String,
   date: String,
   update: String
 });
