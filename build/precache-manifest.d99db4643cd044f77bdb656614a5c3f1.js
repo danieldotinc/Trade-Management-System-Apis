@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/static/media/IRANSansWeb.50f4bba2.woff"
   },
   {
-    "revision": "627c954247c04ce474b1",
+    "revision": "2ff1f6d789dc88461d36",
     "url": "/static/css/main.290fbd53.chunk.css"
   },
   {
@@ -28,8 +28,8 @@ self.__precacheManifest = [
     "url": "/static/media/IRANSansWeb.9d38733b.woff2"
   },
   {
-    "revision": "627c954247c04ce474b1",
-    "url": "/static/js/main.627c9542.chunk.js"
+    "revision": "2ff1f6d789dc88461d36",
+    "url": "/static/js/main.2ff1f6d7.chunk.js"
   },
   {
     "revision": "70a5f97c18c45e8ef620a374be61c6c3",
@@ -40,23 +40,23 @@ self.__precacheManifest = [
     "url": "/static/media/IRANSansWeb.244a401e.ttf"
   },
   {
-    "revision": "651771e1df95c807c99608188d0a4287",
-    "url": "/static/media/notification.651771e1.woff"
+    "revision": "0b4ac1dc75df35e169b70d7719afe4cc",
+    "url": "/static/media/notification.0b4ac1dc.ttf"
   },
   {
     "revision": "c0d3c94cd6112550c51d7d1ed13b9da1",
     "url": "/static/media/notification.c0d3c94c.eot"
   },
   {
-    "revision": "0b4ac1dc75df35e169b70d7719afe4cc",
-    "url": "/static/media/notification.0b4ac1dc.ttf"
+    "revision": "651771e1df95c807c99608188d0a4287",
+    "url": "/static/media/notification.651771e1.woff"
   },
   {
     "revision": "c5bc2dd90a505d6600a8",
     "url": "/static/css/2.99e9434d.chunk.css"
   },
   {
-    "revision": "a45c78ce7681a5e27e5df4a556b0586a",
+    "revision": "6b942dc20cb17d4f9c4ac052a4092d1e",
     "url": "/index.html"
   }
 ];
