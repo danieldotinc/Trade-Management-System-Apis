@@ -4,8 +4,8 @@ self.__precacheManifest = [
     "url": "/static/media/IRANSansWeb.50f4bba2.woff"
   },
   {
-    "revision": "cad04647b37631d9fff4",
-    "url": "/static/css/main.86c38b4a.chunk.css"
+    "revision": "627c954247c04ce474b1",
+    "url": "/static/css/main.290fbd53.chunk.css"
   },
   {
     "revision": "42ac5946195a7306e2a5",
@@ -28,8 +28,8 @@ self.__precacheManifest = [
     "url": "/static/media/IRANSansWeb.9d38733b.woff2"
   },
   {
-    "revision": "cad04647b37631d9fff4",
-    "url": "/static/js/main.cad04647.chunk.js"
+    "revision": "627c954247c04ce474b1",
+    "url": "/static/js/main.627c9542.chunk.js"
   },
   {
     "revision": "70a5f97c18c45e8ef620a374be61c6c3",
@@ -56,7 +56,7 @@ self.__precacheManifest = [
     "url": "/static/css/2.99e9434d.chunk.css"
   },
   {
-    "revision": "bae37d8c35525175dd8157b6e66fa870",
+    "revision": "a45c78ce7681a5e27e5df4a556b0586a",
     "url": "/index.html"
   }
 ];
